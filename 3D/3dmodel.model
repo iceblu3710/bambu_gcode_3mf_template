@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<model unit="millimeter" xml:lang="en-US" xmlns="http://schemas.microsoft.com/3dmanufacturing/core/2015/02" xmlns:BambuStudio="http://schemas.bambulab.com/package/2021" xmlns:p="http://schemas.microsoft.com/3dmanufacturing/production/2015/06" requiredextensions="p">
+ <metadata name="Application">BambuStudio-2.3.1-alpha</metadata>
+ <metadata name="BambuStudio:3mfVersion">1</metadata>
+ <metadata name="CopyRight">&quot;[]&quot;</metadata>
+ <metadata name="Copyright">[]</metadata>
+ <metadata name="CreationDate"></metadata>
+ <metadata name="Description">&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;Update Dec.10 2023&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;  1. Add “spool holder Max” version, more biger size spool fit in.&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;  2. Modify the length to make two version fit in A1 mini printer.&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;Please note&amp;lt;/strong&amp;gt; that the “lite” version is recomended if you don`t have special bigger size spool. The “Max” version may not easy to be print.&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;The rollers may partially stick with ring together, it may need you loose them by knife.&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;&amp;amp;nbsp;&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;&amp;amp;nbsp;&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;&amp;lt;img src=&amp;amp;#34;https://makerworld.bblmw.com/makerworld/draft/253574/2023-12-10_af125627e1908.png&amp;amp;#34;&amp;gt;&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;&amp;amp;nbsp;&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;Original&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;---------------------------------------------------------&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;This is a simple spool holder. it is integrated printing design and no need any screw or bears and any metal components. just fold sides and press them down as shown in GIF.&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;&amp;lt;img src=&amp;amp;#34;https://makerworld.bblmw.com/makerworld/draft/253574/2023-12-03_e8ppooo3c78s.gif&amp;amp;#34;&amp;gt;&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;Hope you enjoy it! and please let me know, if you have any idea to optimize this design.&amp;lt;/p&amp;gt;</metadata>
+ <metadata name="DesignModelId">US44e6631cdd80fc</metadata>
+ <metadata name="DesignProfileId">32405175</metadata>
+ <metadata name="DesignRegion">US</metadata>
+ <metadata name="Designer">HenryFang亨利方</metadata>
+ <metadata name="DesignerCover">2023-12-08_d0ee8b07687ce.gif</metadata>
+ <metadata name="DesignerUserId"></metadata>
+ <metadata name="License">BY-NC-ND</metadata>
+ <metadata name="ModificationDate"></metadata>
+ <metadata name="Origin">original</metadata>
+ <metadata name="ProfileCover">2023-12-05_708115fab0806.jpg</metadata>
+ <metadata name="ProfileDescription">&lt;p&gt;Spool Holder Lite single color 0.2mm layer, 2 walls, 15% infill&lt;/p&gt;</metadata>
+ <metadata name="ProfileTitle">Spool Holder Lite single color 0.2mm layer, 2 walls, 15% infill</metadata>
+ <metadata name="ProfileUserId">2046420086</metadata>
+ <metadata name="ProfileUserName">HenryFang亨利方</metadata>
+ <metadata name="Thumbnail_Middle">/Metadata/plate_1.png</metadata>
+ <metadata name="Thumbnail_Small">/Metadata/plate_1_small.png</metadata>
+ <metadata name="Title">Print in place spool holder with printed bearings (Dec.10 2023 updated)</metadata>
+ <resources>
+ </resources>
+ <build/>
+</model>
